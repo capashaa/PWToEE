@@ -7,8 +7,7 @@ This tool is going to try to convert pixelwalker world into EELVL file.
 The SDK used for pixelwalker.net is in the bottom
 of this page.  
 
->**PLEASE DON'T SHARE THIS**  
->settings.json if saved, contains AuthToken. 
+### **PLEASE DON'T SHARE settings.json in your folder** 
   
 Image of the tool:  
 ![Image](https://raw.githubusercontent.com/capashaa/PWToEE/main/img/formd.png)
