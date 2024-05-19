@@ -7,7 +7,9 @@ This tool is going to try to convert pixelwalker world into EELVL file.
 The SDK used for pixelwalker.net is in the bottom
 of this page.  
 
-### **PLEASE DON'T SHARE settings.json in your folder** 
+> [!WARNING]
+> Never share your settings.json.   
+> If you do, someone can takeover your account.  
   
 Image of the tool:  
 ![Image](https://raw.githubusercontent.com/capashaa/PWToEE/main/img/formd.png)
@@ -15,7 +17,7 @@ Image of the tool:
 ## How to use the tool
 
 ### How to grab AuthToken:
-Login into PixelWalker. Click on Developers tools. In Chrome it's F12.  
+Login into PixelWalker. Click on Developers tools. In Chrome or Firefox it's F12.  
 Refresh PixelWalker website. Look for auth-refresh. Click on it.  
 You should find " Authorization:" a really long AuthToken comes after this text.  
 Copy this, and paste below the text AuthToken in the interface.  
